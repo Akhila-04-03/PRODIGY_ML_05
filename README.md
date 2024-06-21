@@ -24,7 +24,7 @@ Trained the model for 100 epochs, monitoring its loss and accuracy during traini
    - Build a regression model that predicts calorie values based on the recognized food categories.
    - The architecture includes convolutional layers, max-pooling layers, and fully connected layers.
    - The output layer consists of a single neuron (for regression) without activation.
-   - Train this model using the calorie labels you've prepared.
+   - Train this model using the calorie labels that have been prepared.
 
 2. **Training and Evaluation**: 
    - Split the data into training and testing sets for calorie prediction.
